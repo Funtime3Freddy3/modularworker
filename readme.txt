@@ -1,0 +1,3 @@
+Have you ever wanted to express your freedom in your own site and be free for forever?
+Meet Modular Worker, a software PHP based app that can load plugins made by other developers for free. This project was started by Funtime3Freddy3 and his company Funtime3Freddy3 Records for your dreams. You can download verified plugins by us and use them, or use them unverified without our security to express even better your freedom. You can also use the app locally or with a domain. The app is very easy to use. For more info, you can visit our documentation.
+To download this software, please go to https://modularworker.com
